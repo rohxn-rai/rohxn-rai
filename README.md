@@ -3,7 +3,7 @@
     <!-- 
     <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611jl0k6qf8wqwqxqddlrjbecady6rp37q6hla253jw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/><br>
     -->
-    👋 Hi, I'm Rohan Rai!
+    👋 Hi, I'm Rohan Rai!<br><br>
     <div id="badges">
       <a href="https://linkedin.com/in/rohxnrai">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
