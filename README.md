@@ -59,7 +59,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<div id="github-stats" align="center">
+<div id="github-stats">
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
