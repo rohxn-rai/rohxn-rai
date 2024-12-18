@@ -21,11 +21,10 @@
 
 👩🏻‍💻 Software Developer sharing about my journey and learnings in tech.<br>
 👩🏻‍🎓 Studied Artificial Intelligence and Machine Learning at New Horizon College of Engineering, Bengaluru.<br>
-⌨️ All my learnings are saved on my repository alone with some on the project I worked on personally.<br>
-💭 Currently learning about JavaScript!<br>
-👯 I’m looking to collaborate on some projects related to Full Stack Development or Data Science.<br>
-🌱 I’m currently learning React.<br>
-💬 My hobbies are to keep up with new technologies and gaming.
+⌨️ All my learnings are saved on my repository along with some of the project I worked on.<br>
+🌱 Currently learning about React Native!<br>
+💭 I’m looking to collaborate on some projects related to Full Stack Development or Data Science.<br>
+🎮 My hobbies are to keep up with new technologies and gaming.
 
 
 <h2>💻 Tech Stack:</h2>
@@ -62,9 +61,9 @@
 <div id="github-stats">
   
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=dark&hide_border=false) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
 
 </div>
 
