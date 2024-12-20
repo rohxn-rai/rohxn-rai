@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
       </a>
       <a href="https://x.com/rohxnrai">
-        <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="x Badge"/>
+        <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
       </a>
       <a href="https://instagram.com/rohxn_rai">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
@@ -19,12 +19,12 @@
 </div>
 
 
-👩🏻‍💻 Software Developer sharing about my journey and learnings in tech.<br>
-👩🏻‍🎓 Studied Artificial Intelligence and Machine Learning at New Horizon College of Engineering, Bengaluru.<br>
+👩🏻‍💻 22 years old Software Developer sharing about my journey and learnings in tech.<br>
+👩🏻‍🎓 Studied Artificial Intelligence and Machine Learning at New Horizon College of Engineering, Bengaluru (Batch-2024).<br>
 ⌨️ All my learnings are saved on my repository along with some of the project I worked on.<br>
 🌱 Currently learning about React Native!<br>
-💭 I’m looking to collaborate on some projects related to Full Stack Development or Data Science.<br>
-🎮 My hobbies are to keep up with new technologies and gaming.
+💭 I’m looking to collaborate on some projects related to Full Stack Development and Data Science.<br>
+🎮 My hobbies are to exploring up with new technologies and gaming.
 
 
 <h2>💻 Tech Stack:</h2>
@@ -61,9 +61,9 @@
 <div id="github-stats">
   
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=dark&hide_border=false) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=dark&hide_border=true) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <br>
 
 </div>
 
