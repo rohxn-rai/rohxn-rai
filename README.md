@@ -23,6 +23,7 @@
 👩🏻‍🎓 Studied Artificial Intelligence and Machine Learning at New Horizon College of Engineering, Bengaluru (Batch-2024).<br>
 ⌨️ All my learnings are saved on my repository along with some of the project I worked on.<br>
 🌱 Currently learning about React Native!<br>
+📄 Know about my experiences ![here](https://drive.google.com/file/d/1Z07pnOlSjqAtQ2GoxRqowiy6cUFvKiVK/view?usp=sharing) <br>
 💭 I’m looking to collaborate on some projects related to Full Stack Development and Data Science.<br>
 🎮 My hobbies are to exploring up with new technologies and gaming.
 
