@@ -2,9 +2,9 @@
   <h1>
     <!-- 
     🐍🐍
-    <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611jl0k6qf8wqwqxqddlrjbecady6rp37q6hla253jw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/><br>
     -->
-    👋 Hi, I'm Rohan Rai!<br><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohan+Rai!;" />
+
     <div id="badges">
       <a href="mailto:rohan.rai932@outlook.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -19,6 +19,7 @@
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
     </div>
+
   </h1>
 </div>
 
