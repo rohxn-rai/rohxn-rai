@@ -34,12 +34,7 @@
   <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rohxn-rai/rohxn-rai/output/github-contribution-grid-snake.svg" />  
-  <br/><br/><br/>
 </div>
-
-<br>
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=38qsqesuqes1woaigmsm9bejj&unique={true})
 
 <h2>💻 Tech Stack:</h2>
 <h3>Programing Languages</h3>
@@ -83,6 +78,9 @@
   
   ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false) 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=dark&hide_border=true)
+  <a href="https://open.spotify.com/user/38qsqesuqes1woaigmsm9bejj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=38qsqesuqes1woaigmsm9bejj&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
 </div>
 
