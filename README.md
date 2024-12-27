@@ -36,6 +36,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rohxn-rai/rohxn-rai/output/github-contribution-grid-snake.svg" />  
 </div>
 
+
 <h2>💻 Tech Stack:</h2>
 <h3>Programing Languages</h3>
 
@@ -45,6 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br>
+
 
 <h3>Frameworks Tools</h3>
 
@@ -56,10 +58,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
 
+
 <h3>Database Management Tools</h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br>
+
 
 <h3>Data Science Tools</h3>
 
@@ -71,22 +75,27 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <div id="github-stats">
+
+
+## Spotify
+
+ <a href="https://open.spotify.com/user/38qsqesuqes1woaigmsm9bejj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=38qsqesuqes1woaigmsm9bejj&count=5&unique=true" alt="Spotify recently played" />
+  </a><br>
+  
   
 ## 📊 GitHub Stats:
 
-<div align="center">
+<div align="left">
   
-  ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false) 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=dark&hide_border=true)
-  <a href="https://open.spotify.com/user/38qsqesuqes1woaigmsm9bejj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=38qsqesuqes1woaigmsm9bejj&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br>
+  ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=dark&hide_border=true)<br>
 </div>
 
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohxn-rai" alt="rohxn-rai" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohxn-rai" alt="rohxn-rai" /></a> </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
