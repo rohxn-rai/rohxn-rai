@@ -33,7 +33,7 @@
 <div>
   <h2>My Contributions</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/rohxn-rai/rohxn-rai/output/snake.svg" alt="Snake animation" /> <br>
+  <img src="https://raw.githubusercontent.com/rohxn-rai/rohxn-rai/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" /> <br>
 </div>
 
 
@@ -88,15 +88,17 @@
 
 <div align="left">
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br>
-  ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=dark&hide_border=true)<br>
+  ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=github_dark&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 </div>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohxn-rai" alt="rohxn-rai" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=rohxn-rai&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-contributor-stats.vercel.app/api?username=rohxn-rai&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <img align="right" src="https://visitcount.itsvg.in/api?id=rohxn-rai&icon=10&color=13" />
