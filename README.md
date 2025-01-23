@@ -28,7 +28,8 @@
 🌱 Currently learning about **Next.js**. <br>
 📄 Know about my experiences **[here](https://drive.google.com/file/d/1Z07pnOlSjqAtQ2GoxRqowiy6cUFvKiVK/view?usp=sharing)** <br>
 💭 I’m looking to collaborate on some projects related to **Front-end Development and Data Science**.<br>
-🎮 My hobbies are to exploring up with new technologies and gaming.
+🎮 My hobbies are to exploring up with new technologies and gaming. <br>
+🏢 Work **[Github](https://github.com/ds-rohan-dev)** <br>
 
 <div>
   <h2>My Contributions</h2>
