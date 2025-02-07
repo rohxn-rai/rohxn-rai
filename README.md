@@ -20,13 +20,14 @@
 </div>
 
 👩🏻‍💻 22 years old **Software Developer** sharing about my journey and learnings in tech. <br>
-👩🏻‍🎓 Completed my Bachelor of Engineering in Artificial Intelligence and Machine Learning at **New Horizon College of Engineering, Bengaluru** (Batch-2024). <br>
+🧠 Completed my **Bachelor of Engineering** in **Artificial Intelligence and Machine Learning**. <br>
+👩🏻‍🎓 Graduate from **New Horizon College of Engineering, Bengaluru** (Batch-2024). <br>
 ⌨️ All my learnings are saved on my repository along with some of the project I worked on. <br>
 🌱 Currently learning about **Next.js**. <br>
-📄 Know about my experiences **[here](https://drive.google.com/file/d/13xJZWGCRBdJLpZMn2ojQHt0Vu9yaUJNY/view?usp=sharing)** <br>
+📄 Know about my experiences from my **[Resume](https://drive.google.com/file/d/13xJZWGCRBdJLpZMn2ojQHt0Vu9yaUJNY/view?usp=sharing)** <br>
 💭 I’m looking to collaborate on some projects related to **Front-end Development and Data Science**.<br>
 🎮 My hobbies are to exploring up with new technologies and gaming. <br>
-🏢 Work **[Github](https://github.com/ds-rohan-dev)** <br>
+<!-- 🏢 Work **[Github](https://github.com/ds-rohan-dev)** <br> -->
 
 <div>
   <!-- 
