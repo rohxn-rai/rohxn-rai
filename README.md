@@ -23,9 +23,9 @@
 🧠 Completed my **Bachelor of Engineering** in **Artificial Intelligence and Machine Learning**. <br>
 👩🏻‍🎓 Graduate from **New Horizon College of Engineering, Bengaluru** (Batch-2024). <br>
 ⌨️ All my learnings are saved on my repository along with some of the project I worked on. <br>
-🌱 Currently learning about **Next.js**. <br>
+🌱 Currently learning about **NextJS 15**. <br>
 📄 Know about my experiences from my **[Resume](https://drive.google.com/file/d/13xJZWGCRBdJLpZMn2ojQHt0Vu9yaUJNY/view?usp=sharing)** <br>
-💭 I’m looking to collaborate on some projects related to **Front-end Development and Data Science**.<br>
+💭 I’m looking to collaborate on some projects related to **ReactJS and NextJS**.<br>
 🎮 My hobbies are to exploring up with new technologies and gaming. <br>
 <!-- 🏢 Work **[Github](https://github.com/ds-rohan-dev)** <br> -->
 
@@ -57,8 +57,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-<!-- ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) --> 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) <br>
 
 
 <h3>Database Management Tools</h3>
