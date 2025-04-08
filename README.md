@@ -25,7 +25,7 @@
 👩🏻‍🎓 Graduate from **New Horizon College of Engineering, Bengaluru** (Batch-2024). <br>
 ⌨️ All my learnings are saved on my repository along with some of the project I worked on. <br>
 🌱 Currently working on my portfolio on **NextJS** Framework. <br>
-📄 Know about my experiences from my **[Resume](https://drive.google.com/file/d/13xJZWGCRBdJLpZMn2ojQHt0Vu9yaUJNY/view?usp=sharing)** <br>
+📄 Know more about me from my **[portfolio](https://rohxn-rai.github.io/rohan-rai-portfolio/)**. <br>
 💭 I’m looking to collaborate on some projects related to **ReactJS and NextJS**.<br>
 🎮 My hobbies are to exploring up with new technologies and gaming. <br>
 
