@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=BD03F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Rohan+Rai!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=BD03F7&center=true&vCenter=true&width=500&height=70&size=32&duration=4000&lines=Hello+There!+👋;+I'm+Rohan+Rai!;" />
     <div id="badges">
       <a href="mailto:rohan.rai932@outlook.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
