@@ -14,6 +14,9 @@
       <a href="https://instagram.com/rohxn_rai">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
+      <a href="https://portfolio-rohan-rai.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=thirdweb&logoColor=white" alt="Resume Badge"/>
+      </a>
     </div>
 
   </h1>
@@ -25,7 +28,7 @@
 👩🏻‍🎓 Graduate from **New Horizon College of Engineering, Bengaluru** (Batch-2024). <br>
 ⌨️ All my learnings are saved on my repository along with some of the project I worked on. <br>
 🌱 Currently learning Backend programming using **Express**. <br>
-📄 Know more about me from my **[resume](https://drive.google.com/file/d/13xJZWGCRBdJLpZMn2ojQHt0Vu9yaUJNY/view?usp=drivesdk)**. <br>
+📄 Know more about me from my **[portfolio](https://portfolio-rohan-rai.vercel.app/)**. <br>
 💭 I’m looking to collaborate on some projects related to **ReactJS and NextJS**.<br>
 🎮 My hobbies are to exploring up with new technologies and gaming. <br>
 
