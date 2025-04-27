@@ -22,7 +22,7 @@
   </h1>
 </div>
 
-👩🏻‍💻 22 years old **Software Developer** sharing about my journey and learnings in tech. <br>
+👩🏻‍💻 23 years old **Software Developer** sharing about my journey and learnings in tech. <br>
 🏢 Currently working at **Digi-Safari** as a **MERN FullStack Developer**. <br>
 🧠 Completed my **Bachelor of Engineering** in **Artificial Intelligence and Machine Learning**. <br>
 👩🏻‍🎓 Graduate from **New Horizon College of Engineering, Bengaluru** (Batch-2024). <br>
