@@ -89,7 +89,6 @@
 <div align="left">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=pie&hide=jupyter%20notebook)
-![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=tru&show_icons=true&rank_icon=github)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=transparent&hide_border=true)
 ![](https://github-profile-trophy.vercel.app/?username=rohxn-rai&theme=transparent&no-frame=true&no-bg=true&margin-w=2)
 
@@ -97,7 +96,8 @@
 
 </div>
 
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rohxn-rai&limit=2&theme=transparent&hide_border=true&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=tru&show_icons=true&rank_icon=github)
+![](https://github-contributor-stats.vercel.app/api?username=rohxn-rai&limit=2&theme=transparent&hide_border=true&combine_all_yearly_contributions=true) -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
