@@ -84,7 +84,7 @@
 
 <div id="github-stats">
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="left">
   
