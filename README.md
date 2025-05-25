@@ -12,6 +12,7 @@
         <code><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/></code>
       </a>
       <br>
+      <br>
       <a href="https://instagram.com/rohxn_rai">
         <code><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></code>
       </a>
