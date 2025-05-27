@@ -13,7 +13,6 @@
         <code><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/></code>
       </a>
       <br>
-      <br>
       <a href="https://instagram.com/rohxn_rai">
         <code><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></code>
       </a>
@@ -21,12 +20,11 @@
         <code><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=thirdweb&logoColor=white" alt="Resume Badge"/></code>
       </a>
     </div>
-
   </h1>
 </div>
 
 😄 Pronouns - **He/Him**. <br>
-👩🏻‍💻 23 years old **Full Stack Developer** always wanting to explore more in a techstacks. <br>
+👩🏻‍💻 23 years old **MERN FullStack Developer** always wanting to explore more in techstacks. <br>
 🏢 Currently working at **Digi-Safari** as a **MERN FullStack Developer**. <br>
 🧠 Graduated with **Bachelor of Engineering** in **Artificial Intelligence and Machine Learning**. <br>
 👩🏻‍🎓 College **New Horizon College of Engineering, Bengaluru** (Batch-2024). <br>
@@ -40,8 +38,14 @@
   🐍🐍
   -->
   <h2>My Contributions</h2>
+  
   <br>
+
+  
+<div align="center">
   <img src="https://raw.githubusercontent.com/rohxn-rai/rohxn-rai/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" /> <br>
+</div>
+
 </div>
 
 <h2>Tech Stacks</h2>
@@ -63,7 +67,8 @@
 <code>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</code>
 <code>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</code>
 <code>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</code>
-<code>![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)</code> <br>
+<code>![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)</code>
+<code>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</code> <br>
 
 <h3>Database Management Tools</h3>
 
@@ -83,16 +88,21 @@
 
 ## Spotify
 
+
+<div align="center">
+
 <code>[<img src="https://spotify-recently-played-readme.vercel.app/api?user=38qsqesuqes1woaigmsm9bejj&count=5&unique=true" alt="Spotify recently played" />](https://open.spotify.com/user/38qsqesuqes1woaigmsm9bejj)</code>
+
+</div>
 
 <div id="github-stats">
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=pie&hide=jupyter%20notebook)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohxn-rai&theme=transparent&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohxn-rai&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-profile-trophy.vercel.app/?username=rohxn-rai&theme=transparent&no-frame=true&no-bg=true&margin-w=2)
 
 </div>
@@ -102,6 +112,10 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=tru&show_icons=true&rank_icon=github)
 ![](https://github-contributor-stats.vercel.app/api?username=rohxn-rai&limit=2&theme=transparent&hide_border=true&combine_all_yearly_contributions=true) -->
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+
+</div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rohxn-rai&style=flat" />
