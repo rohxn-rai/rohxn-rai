@@ -26,7 +26,7 @@
 👩🏻‍💻 23 years old **MERN FullStack Developer** always wanting to explore more in tech stacks. <br>
 🏢 Currently working at **Digi-Safari** as a **MERN FullStack Developer**. <br>
 🧠 Graduated with **Bachelor of Engineering** in **Artificial Intelligence and Machine Learning**. <br>
-👩🏻‍🎓 College **New Horizon College of Engineering, Bengaluru** (Batch-2024). <br>
+👩🏻‍🎓 College **New Horizon College of Engineering, Bengaluru (Batch-2024)**. <br>
 🌱 Currently learning Backend programming using **NextJS with Microservices**. <br>
 📄 Know more about me from my **[portfolio](https://portfolio-rohan-rai.vercel.app/)**. <br>
 💭 I’m looking to collaborate on some projects related to **ReactJS and NextJS**.<br>
