@@ -29,7 +29,7 @@
 👩🏻‍🎓 College **New Horizon College of Engineering, Bengaluru (Batch-2024)**. <br>
 🌱 Currently learning Backend programming using **NextJS with Microservices**. <br>
 📄 Know more about me from my **[portfolio](https://portfolio-rohan-rai.vercel.app/)**. <br>
-💭 I’m looking to collaborate on some projects related to **ReactJS and NextJS**.<br>
+💭 I’m looking to collaborate on some projects related to **ExpressJS**.<br>
 🎮 My hobbies are exploring new technologies and gaming. <br>
 
 <div>
