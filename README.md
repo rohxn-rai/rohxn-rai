@@ -27,7 +27,7 @@
 🏢 Currently working at **Digi-Safari** as a **MERN FullStack Developer**. <br>
 🧠 Graduated with **Bachelor of Engineering** in **Artificial Intelligence and Machine Learning**. <br>
 👩🏻‍🎓 College **New Horizon College of Engineering, Bengaluru (Batch-2024)**. <br>
-🌱 Currently not learning anything but build projects on **NextJS**. <br>
+🌱 Currently refreshing my knowledge on **Authentication methods**. <br>
 📄 Know more about me from my **[portfolio](https://portfolio-rohan-rai.vercel.app/)**. <br>
 💭 I’m looking to collaborate on some projects related to **NextJS**.<br>
 🎮 My hobbies are exploring new technologies and gaming. <br>
@@ -53,12 +53,12 @@
 
 <h3>Programing Languages</h3>
 
-<code>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</code>
+<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
+<code>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</code> <br>
+<code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
 <code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
 <code>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)</code>
-<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
-<code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
-<code>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</code> <br>
+<code>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</code>
 
 <h3>Web Essentials</h3>
 
@@ -69,17 +69,18 @@
 
 <h3>Frameworks Tools</h3>
 
-<code>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</code>
-<code>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</code>
+<code>![React JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</code>
+<code>![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</code>
 <code>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</code>
-<code>![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)</code>
+<code>![Express JS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)</code>
 <code>![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)</code>
 <code>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)</code><br>
 
 <h3>Database Management Tools</h3>
 
-<code>![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)</code>
-<code>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</code><br>
+<code>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</code>
+<code>![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)</code>
+<code>![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)</code><br>
 
 <h3>Data Science Tools</h3>
 
@@ -107,15 +108,16 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=pie&hide=jupyter%20notebook)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohxn-rai&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-![](https://github-profile-trophy.vercel.app/?username=rohxn-rai&theme=transparent&no-frame=true&no-bg=true&margin-w=2)
+![Language Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=pie&hide=jupyter%20notebook)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rohxn-rai&theme=transparent&no-frame=true&no-bg=true&margin-w=2&row=2&column=3)
+![](https://streak-stats.demolab.com?user=rohxn-rai&theme=transparent&hide_border=true&short_numbers=true)
 
 </div>
 
 </div>
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=tru&show_icons=true&rank_icon=github)
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=tru&show_icons=true&rank_icon=github)
 ![](https://github-contributor-stats.vercel.app/api?username=rohxn-rai&limit=2&theme=transparent&hide_border=true&combine_all_yearly_contributions=true) -->
 
 <div align="center">
