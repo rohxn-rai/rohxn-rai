@@ -23,13 +23,13 @@
 </div>
 
 😄 Pronouns - **He/Him**. <br>
-👩🏻‍💻 23 years old **MERN FullStack Developer** always wanting to explore more in tech stacks. <br>
-🏢 Currently working at **Digi-Safari** as a **MERN FullStack Developer**. <br>
+👩🏻‍💻 23 years old **Software Developer** always wanting to explore more in tech stacks. <br>
+🏢 Currently looking for opportunity as **Data Scientist** or **MERN FullStack Developer**. <br>
 🧠 Graduated with **Bachelor of Engineering** in **Artificial Intelligence and Machine Learning**. <br>
 👩🏻‍🎓 College **New Horizon College of Engineering, Bengaluru (Batch-2024)**. <br>
-🌱 Currently learning **Go Language Backend**. <br>
+🌱 Currently Learning **Machine Learning Algorithms**. <br>
 📄 Know more about me from my **[portfolio](https://portfolio-rohan-rai.vercel.app/)**. <br>
-💭 I’m looking to collaborate on some projects related to **MERN FullStack**.<br>
+💭 I’m looking to collaborate on some projects related to **Database Structure**.<br>
 🎮 My hobbies are exploring new technologies and gaming. <br>
 
 <div>
@@ -39,11 +39,10 @@
   <h2>My Contributions</h2>
   
   <br>
-
   
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rohxn-rai/rohxn-rai/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" /> <br>
-</div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/rohxn-rai/rohxn-rai/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" /> <br>
+  </div>
 
 </div>
 
