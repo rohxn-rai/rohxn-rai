@@ -4,7 +4,7 @@
     <br>
     <div id="badges">
       <a href="mailto:rohan.rai932@outlook.com">
-        <code><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></code>
+        <code><img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></code>
       </a>
       <a href="https://linkedin.com/in/rohxnrai">
         <code><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></code>
