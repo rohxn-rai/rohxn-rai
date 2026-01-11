@@ -1,12 +1,9 @@
 name: Metrics
 on:
-  # Schedule daily updates (every 24 hours)
-  schedule: [{cron: "0 0 * * *"}]
-  # (Optional) Run workflow manually using the Actions tab
+  schedule: [{cron: "0 0 * * *"}] # Runs daily
   workflow_dispatch:
-  # (Optional) Run workflow when pushing to main
   push: {branches: ["master", "main"]}
-
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -17,18 +14,16 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: rohxn-rai
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
+
+          base: ""
+          config_order: languages, achievements
           
-          # --- Plugin: Languages (Replaces your Language Graph) ---
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
           
           # --- Plugin: Achievements (Replaces your Trophies) ---
           plugin_achievements: yes
@@ -37,4 +32,4 @@ jobs:
           
           # --- Plugin: IsoCalendar (Optional: Cool 3D contribution view) ---
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
