@@ -106,16 +106,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Language Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=pie&hide=jupyter%20notebook)
-![Trophies](https://github-profile-trophy.vercel.app/?username=rohxn-rai&theme=transparent&no-frame=true&no-bg=true&margin-w=2&row=2&column=3)
-![](https://streak-stats.demolab.com?user=rohxn-rai&theme=transparent&hide_border=true&short_numbers=true)
+
+<code>![My Stats](https://github.com/rohxn-rai/rohxn-rai/blob/main/github-metrics.svg)</code> 
+<code>![Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=rohxn-rai&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=2&column=4)</code> 
+<code>![](https://streak-stats.demolab.com?user=rohxn-rai&theme=transparent&hide_border=true&short_numbers=true)</code> 
 
 </div>
 
 </div>
 
 <!-- 
+![Language Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=pie&hide=jupyter%20notebook)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rohxn-rai&theme=transparent&no-frame=true&no-bg=true&margin-w=2&row=2&column=3)
 ![](https://github-readme-stats.vercel.app/api?username=rohxn-rai&theme=transparent&hide_border=true&include_all_commits=true&count_private=tru&show_icons=true&rank_icon=github)
 ![](https://github-contributor-stats.vercel.app/api?username=rohxn-rai&limit=2&theme=transparent&hide_border=true&combine_all_yearly_contributions=true) -->
 
