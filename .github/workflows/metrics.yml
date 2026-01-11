@@ -24,12 +24,6 @@ jobs:
           plugin_languages_limit: 10
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          
-          # --- Plugin: Achievements (Replaces your Trophies) ---
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          
-          # --- Plugin: IsoCalendar (Optional: Cool 3D contribution view) ---
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
