@@ -24,13 +24,13 @@
 
 😄 Pronouns - **He/Him**. <br>
 👩🏻‍💻 23 years old **Software Developer** always wanting to explore more in tech stacks. <br>
-🏢 Currently looking for opportunity as **Data Scientist** or **MERN FullStack Developer**. <br>
+🏢 Currently working at [**Adobe**](www.adobe.com/). <br>
 🧠 Graduated with **Bachelor of Engineering** in **Artificial Intelligence and Machine Learning**. <br>
 👩🏻‍🎓 College **New Horizon College of Engineering, Bengaluru (Batch-2024)**. <br>
 🌱 Currently Learning **Machine Learning Algorithms**. <br>
 📄 Know more about me from my **[portfolio](https://portfolio-rohan-rai.vercel.app/)**. <br>
 💭 I’m looking to collaborate on some projects related to **Database Structure**.<br>
-🎮 My hobbies are exploring new technologies and gaming. <br>
+🎮 My hobbies are problem solving and gaming. <br>
 
 <div>
   <!-- 
